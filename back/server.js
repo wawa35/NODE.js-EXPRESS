@@ -1,4 +1,4 @@
-// Ici on importe le package HTTP natif de Node.
+// Ici on importe le package HTTP natif de Node pur gérez les requetes et response .
 const http = require('http');
 
 // On importe le module app depuis le fichier app.js dans la variable app.
